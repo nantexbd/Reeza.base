@@ -7,3 +7,4 @@ bullish on base
 base is for every one
 25 contributions base ongoing for my
 50 contributions base ongoing for my
+must be 100 transcation on base
