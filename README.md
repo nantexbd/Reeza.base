@@ -8,3 +8,4 @@ base is for every one
 25 contributions base ongoing for my
 50 contributions base ongoing for my
 must be 100 transcation on base
+must be 500 transcation on base
