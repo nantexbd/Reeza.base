@@ -9,3 +9,4 @@ base is for every one
 50 contributions base ongoing for my
 must be 100 transcation on base
 must be 500 transcation on base
+must be 1000 transcation on base
